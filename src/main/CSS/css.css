@@ -1,0 +1,12 @@
+
+.div{
+    length:20px;
+    -webkit-animation-play-state: running;
+    width:50px;
+
+}
+
+.span{
+    container : 50px;
+    border-bottom-left-radius:inherit;
+}
